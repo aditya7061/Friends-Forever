@@ -1,0 +1,20 @@
+{
+  "CONTRACT_ADDRESS": "0x7cfef18c3275c4cfef8135fa2b25360c38e462ee",
+  "SCAN_LINK": "https://polygonscan.com/address/0x7cfef18c3275c4cfef8135fa2b25360c38e462ee",
+  "NETWORK": {
+    "NAME": "Polygon Matic",
+    "SYMBOL": "MATIC",
+    "ID": 137
+  },
+  "OWNER":"Aditya",
+  "YEAR":"2022",
+  "NFT_NAME": "Friends Forever",
+  "SYMBOL": "FRIENDS",
+  "MAX_SUPPLY": 222,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 285000,
+  "Max_priority_fee": 80,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/friends-forever-v1"
+}

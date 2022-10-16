@@ -1,0 +1,47 @@
+
+:root {
+  /* Body */
+ 
+  --primary: #cf1a93;
+  --secondary:#1d78df;
+  --bg-angle:147deg;
+  --primary-text: #99ca11;
+  --owner:#fd3838;
+  --logo:0px;
+
+  
+  /* Image preview */
+  --img-size:250px;
+  --img-radius:15%;
+  --img-animation-primary:#fd3838;
+  --img-animation-secondary:#2315e2;
+  --animation:spin;
+  --animation-showhide:1;
+  --animation-shadow:1;
+
+  /*Main container*/
+  --main-rarius:25px;
+  --main-bg-primary:#fd3838;
+  --main-bg-secondary:#ffe53b;
+  --img-animation-primary-1:#e620a4;
+  --img-animation-secondary-1:#0faada;
+  --animation-1:spin1;
+  --main-angle:147deg;
+  --main-text: #ffffff;
+  --alert-text:#f00000;
+  --wallet-text: #101010;
+  --container-size:900px;
+  --container-radius:10%;
+  --animation-showhide-1:1;
+  --animation-shadow-1:1;
+ 
+
+  /*Buttons*/
+  --btn-radius:30px;
+  --btn-color:#ffffff;
+  --btn-text:#fd3838;
+  --btn-text-hover:#110a1a;
+  
+  /*Buttons*/
+  --btn-sec-text:#fd3838;
+}
